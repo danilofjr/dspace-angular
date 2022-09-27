@@ -23,36 +23,31 @@
   
   
   // "404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
-  "404.help": "Não pudemos encontrar a página pela qual procura. A página pode ter sido movida ou apagada. Você pode utilizar o botão abaixo para voltar a página inicial. ",
+  "404.help": "Não encontramos a página que você procura. A página pode ter sido movida ou apagada. Você pode utilizar o botão abaixo para voltar à página inicial. ",
   
   // "404.link.home-page": "Take me to the home page",
-  "404.link.home-page": "Leve-me a página inicial",
+  "404.link.home-page": "Retornar à página inicial",
   
   // "404.page-not-found": "page not found",
   "404.page-not-found": "página não encontrada",
   
   // "admin.curation-tasks.breadcrumbs": "System curation tasks",
-  // TODO New key - Add a translation
-  "admin.curation-tasks.breadcrumbs": "System curation tasks",
+  "admin.curation-tasks.breadcrumbs": "Tarefas de curadoria do sistema",
   
   // "admin.curation-tasks.title": "System curation tasks",
-  // TODO New key - Add a translation
-  "admin.curation-tasks.title": "System curation tasks",
+  "admin.curation-tasks.title": "Tarefas de curadoria do sistema",
   
   // "admin.curation-tasks.header": "System curation tasks",
-  // TODO New key - Add a translation
-  "admin.curation-tasks.header": "System curation tasks",
+  "admin.curation-tasks.header": "Tarefas de curadoria do sistema",
   
   // "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
+  "admin.registries.bitstream-formats.breadcrumbs": "Registro de formato",
   
   // "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Formato de Bitstream",
   
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
-  "admin.registries.bitstream-formats.create.failure.content": "Um erro ocorreu durante a criação do novo formato de bitstream.",
+  "admin.registries.bitstream-formats.create.failure.content": "Ocorreu um erro durante a criação do novo formato de bitstream.",
   
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   "admin.registries.bitstream-formats.create.failure.head": "Falha",
@@ -76,7 +71,7 @@
   "admin.registries.bitstream-formats.delete.failure.head": "Falha",
   
   // "admin.registries.bitstream-formats.delete.success.amount": "Successfully removed {{ amount }} format(s)",
-  "admin.registries.bitstream-formats.delete.success.amount": "Removeu {{ amount }} formato(s) com sucesso",
+  "admin.registries.bitstream-formats.delete.success.amount": "Removido(s) {{ amount }} formato(s) com sucesso",
   
   // "admin.registries.bitstream-formats.delete.success.head": "Success",
   "admin.registries.bitstream-formats.delete.success.head": "Sucesso",
@@ -85,8 +80,7 @@
   "admin.registries.bitstream-formats.description": "Esta lista de formatos de bitstream provê informações sobre formatos conhecidos e seus níveis de suporte.",
   
   // "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
-  // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Formato de Bitstream",
   
   // "admin.registries.bitstream-formats.edit.description.hint": "",
   "admin.registries.bitstream-formats.edit.description.hint": "",
@@ -101,8 +95,7 @@
   "admin.registries.bitstream-formats.edit.extensions.label": "Extensões de arquivo",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
-  // TODO Source message changed - Revise the translation
-  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Informe uma extenção e arquivo sem o ponto",
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Informe uma extenção de arquivo sem o ponto",
   
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
   "admin.registries.bitstream-formats.edit.failure.content": "Ocorreu um erro ao editar o formato de bitstream.",
@@ -114,13 +107,13 @@
   "admin.registries.bitstream-formats.edit.head": "Formato de bitstream: {{ format }}",
   
   // "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are hidden from the user, and used for administrative purposes.",
-  "admin.registries.bitstream-formats.edit.internal.hint": "Formatos marcados como interno são ocultos para o usuário, e utilizados por motivos administrativos.",
+  "admin.registries.bitstream-formats.edit.internal.hint": "Formatos marcados como internos são ocultos para o usuário e utilizados para propósitos administrativos.",
   
   // "admin.registries.bitstream-formats.edit.internal.label": "Internal",
   "admin.registries.bitstream-formats.edit.internal.label": "Interno",
   
   // "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
-  "admin.registries.bitstream-formats.edit.mimetype.hint": "O MIME type associado à este formato não tem que ser único.",
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "O MIME type associado à este formato não precisa ser único.",
   
   // "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
   "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
@@ -132,13 +125,13 @@
   "admin.registries.bitstream-formats.edit.shortDescription.label": "Nome",
   
   // "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
-  "admin.registries.bitstream-formats.edit.success.content": "O formato de bitstream foi editedo com sucesso.",
+  "admin.registries.bitstream-formats.edit.success.content": "O formato de bitstream foi editado com sucesso.",
   
   // "admin.registries.bitstream-formats.edit.success.head": "Success",
   "admin.registries.bitstream-formats.edit.success.head": "Sucesso",
   
   // "admin.registries.bitstream-formats.edit.supportLevel.hint": "The level of support your institution pledges for this format.",
-  "admin.registries.bitstream-formats.edit.supportLevel.hint": "O nível de suporte que a sua instituição promete para este formato.",
+  "admin.registries.bitstream-formats.edit.supportLevel.hint": "O nível de suporte que a sua instituição garante para este formato.",
   
   // "admin.registries.bitstream-formats.edit.supportLevel.label": "Support level",
   "admin.registries.bitstream-formats.edit.supportLevel.label": "Nível de suporte",
