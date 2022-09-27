@@ -146,7 +146,7 @@
   "admin.registries.bitstream-formats.table.delete": "Apagar selecionado(s)",
   
   // "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
-  "admin.registries.bitstream-formats.table.deselect-all": "Desselecionar todos",
+  "admin.registries.bitstream-formats.table.deselect-all": "Desmarcar todos",
   
   // "admin.registries.bitstream-formats.table.internal": "internal",
   "admin.registries.bitstream-formats.table.internal": "Interno",
@@ -178,8 +178,7 @@
   
   
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
-  // TODO New key - Add a translation
-  "admin.registries.metadata.breadcrumbs": "Metadata registry",
+  "admin.registries.metadata.breadcrumbs": "Registro de metadados",
   
   // "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
   "admin.registries.metadata.description": "O registro de metadados mantém a lista de todos os campos de metadados disponíveis no repositório. Estes campos podêm ser divididos em multiplos esquemas. Entretanto, o DSpace requer esquemas de Dublin Core qualificados.",
@@ -200,7 +199,7 @@
   "admin.registries.metadata.head": "Registro de Metadados",
   
   // "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
-  "admin.registries.metadata.schemas.no-items": "Nenhum esquema de metadados a mostrar.",
+  "admin.registries.metadata.schemas.no-items": "Nenhum esquema de metadados a exibir.",
   
   // "admin.registries.metadata.schemas.table.delete": "Delete selected",
   "admin.registries.metadata.schemas.table.delete": "Apagar selecionado(s)",
@@ -220,14 +219,13 @@
   
   
   // "admin.registries.schema.breadcrumbs": "Metadata schema",
-  // TODO New key - Add a translation
-  "admin.registries.schema.breadcrumbs": "Metadata schema",
+  "admin.registries.schema.breadcrumbs": "Esquema de Metadados",
   
   // "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
   "admin.registries.schema.description": "Este é o esquema de metadados para \"{{namespace}}\".",
   
   // "admin.registries.schema.fields.head": "Schema metadata fields",
-  "admin.registries.schema.fields.head": "Campos do esquema de metadados",
+  "admin.registries.schema.fields.head": "Campos de metadados do esquema",
   
   // "admin.registries.schema.fields.no-items": "No metadata fields to show.",
   "admin.registries.schema.fields.no-items": "Nenhum campo de metadado a exibir.",
@@ -260,7 +258,7 @@
   "admin.registries.schema.head": "Esquema de Metadados",
   
   // "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.created": "Criou o esquema de metadados \"{{prefix}}\" com sucesso",
+  "admin.registries.schema.notification.created": "O esquema de metadados \"{{prefix}}\" foi criado com sucesso",
   
   // "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
   "admin.registries.schema.notification.deleted.failure": "Falhou ao apagar {{amount}} esquema(s) de metadados",
@@ -269,13 +267,13 @@
   "admin.registries.schema.notification.deleted.success": "Apagou {{amount}} esquema(s) de metadados com sucesso",
   
   // "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.edited": "Editou o esquema de metadados \"{{prefix}}\" com sucesso",
+  "admin.registries.schema.notification.edited": "O esquema de metadados \"{{prefix}}\" foi editado com sucesso",
   
   // "admin.registries.schema.notification.failure": "Error",
   "admin.registries.schema.notification.failure": "Erro",
   
   // "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.created": "Criou o campo de medado \"{{field}}\" com sucesso",
+  "admin.registries.schema.notification.field.created": "O campo de medado \"{{field}}\" foi criado com sucesso",
   
   // "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
   "admin.registries.schema.notification.field.deleted.failure": "Falhou ao apagar {{amount}} campo(s) de metadados",
@@ -284,7 +282,7 @@
   "admin.registries.schema.notification.field.deleted.success": "Apagou {{amount}} campo(s) de metadados com sucesso",
   
   // "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.edited": "Editou o campo de metadodo \"{{field}}\" com sucesso",
+  "admin.registries.schema.notification.field.edited": "O campo de metadodo \"{{field}}\" foi editado com sucesso",
   
   // "admin.registries.schema.notification.success": "Success",
   "admin.registries.schema.notification.success": "Sucesso",
@@ -298,47 +296,37 @@
   
   
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.delete": "Delete EPerson",
+  "admin.access-control.epeople.actions.delete": "Apagar EPerson",
   
   // "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
+  "admin.access-control.epeople.actions.impersonate": "Representar EPerson",
   
   // "admin.access-control.epeople.actions.reset": "Reset password",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.reset": "Reset password",
+  "admin.access-control.epeople.actions.reset": "Redefinir senha",
   
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
+  "admin.access-control.epeople.actions.stop-impersonating": "Parar de representar EPerson",
   
   // "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
-  // TODO New key - Add a translation
   "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
   
   // "admin.access-control.epeople.head": "EPeople",
-  // TODO New key - Add a translation
   "admin.access-control.epeople.head": "EPeople",
   
   // "admin.access-control.epeople.search.head": "Search",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.search.head": "Search",
+  "admin.access-control.epeople.search.head": "Busca",
   
   // "admin.access-control.epeople.button.see-all": "Browse All",
   "admin.access-control.epeople.button.see-all": "Pesquisar Todos",
   
   // "admin.access-control.epeople.search.scope.metadata": "Metadata",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.search.scope.metadata": "Metadata",
+  "admin.access-control.epeople.search.scope.metadata": "Metadados",
   
   // "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
+  "admin.access-control.epeople.search.scope.email": "E-mail",
   
   // "admin.access-control.epeople.search.button": "Search",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.search.button": "Search",
+  "admin.access-control.epeople.search.button": "Busca",
   
   // "admin.access-control.epeople.button.add": "Add EPerson",
   // TODO New key - Add a translation
