@@ -760,23 +760,19 @@
   "bitstream.edit.bitstream": "Bitstream: ",
   
   // "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
-  // TODO New key - Add a translation
   "bitstream.edit.form.description.hint": "Opcionalmente, informe uma descrição curta do arquivo, por exemplo \"<i>Main article</i>\" ou \"<i>Experiment data readings</i>\".",
   
   // "bitstream.edit.form.description.label": "Description",
   "bitstream.edit.form.description.label": "Descrição",
   
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
+  "bitstream.edit.form.embargo.hint": "O primeiro dia em que o acesso será permitido. <b>Esta data não pode ser modificada neste formulário.</b> Para definir uma data de embargo, vá para a aba <i>Status do Item</i>, clique em <i>Autorizações...</i>, crie ou edite a política <i>READ</i> do bitstream, e defina a <i>Data inicial</i> conforme desejado.",
   
   // "bitstream.edit.form.embargo.label": "Embargo until specific date",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.embargo.label": "Embargo until specific date",
+  "bitstream.edit.form.embargo.label": "Embargo até a data especificada",
   
   // "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
+  "bitstream.edit.form.fileName.hint": "Modifique o nome do arquivo para o bitstream.  Observe que isto irá modificar a URL do bitstream, mas links antigos ainda funcionarão enquanto a sequência ID não mudar.",
   
   // "bitstream.edit.form.fileName.label": "Filename",
   "bitstream.edit.form.fileName.label": "Nome do arquivo",
